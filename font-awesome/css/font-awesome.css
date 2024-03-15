@@ -31,7 +31,6 @@
 }
 .fa-3x {
   font-size: 3em;
-  color: white;
 }
 .fa-4x {
   font-size: 4em;
@@ -1799,4 +1798,7 @@
 }
 .fa-medium:before {
   content: "\f23a";
+}
+.fa-envelope-o {
+  color: white;
 }
