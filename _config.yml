@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 instagram_username: copi_funcionsl
-whatsapp_number:  635 03 97 05
+whatsapp_number: 635 03 97 05
 
 # Build settings
 markdown: kramdown
